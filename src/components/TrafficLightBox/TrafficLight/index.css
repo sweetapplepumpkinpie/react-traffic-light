@@ -1,0 +1,24 @@
+.traffic-light {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+.bg-red {
+  background-color: red;
+}
+
+.bg-green {
+  background-color: rgb(12, 247, 32);
+}
+
+.bg-yellow {
+  background-color: yellow;
+}
+
+.light-on {
+  opacity: 1;
+}
+.light-off {
+  opacity: 0.3;
+}
